@@ -1,0 +1,1052 @@
+[
+    {
+        "ano": 2024,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.564919330740487,
+            "mediaAri": 15.564919330740487,
+            "numDatos": 31,
+            "maxAbs": 22,
+            "feMaxAbs": "2024-07-19 14:27:00",
+            "MediaMax": 17.819354887931578,
+            "minAbs": 10.199999809265137,
+            "feMinAbs": "2024-07-22 07:11:00",
+            "mediaMin": 13.516128970730689
+        }
+    },
+    {
+        "ano": 2023,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 18.399999618530273,
+            "mediaAri": 18.399999618530273,
+            "numDatos": 31,
+            "maxAbs": 21.100000381469727,
+            "feMaxAbs": "2023-07-05 12:20:00",
+            "MediaMax": 20.200000762939453,
+            "minAbs": 12.800000190734863,
+            "feMinAbs": "2023-07-10 07:28:00",
+            "mediaMin": 17.200000762939453
+        }
+    },
+    {
+        "ano": 2022,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.800000190734863,
+            "mediaAri": 15.800000190734863,
+            "numDatos": 31,
+            "maxAbs": 18.899999618530273,
+            "feMaxAbs": "2022-07-08 12:15:00",
+            "MediaMax": 17.600000381469727,
+            "minAbs": 10.300000190734863,
+            "feMinAbs": "2022-07-25 07:24:00",
+            "mediaMin": 14.600000381469727
+        }
+    },
+    {
+        "ano": 2021,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.800000190734863,
+            "mediaAri": 15.800000190734863,
+            "numDatos": 31,
+            "maxAbs": 20.899999618530273,
+            "feMaxAbs": "2021-07-13 12:00:00",
+            "MediaMax": 17.899999618530273,
+            "minAbs": 11.100000381469727,
+            "feMinAbs": "2021-07-12 03:33:00",
+            "mediaMin": 14.600000381469727
+        }
+    },
+    {
+        "ano": 2020,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.200000762939453,
+            "mediaAri": 16.299999237060547,
+            "numDatos": 31,
+            "maxAbs": 20.299999237060547,
+            "feMaxAbs": "2020-07-07 12:31:00",
+            "MediaMax": 18,
+            "minAbs": 11,
+            "feMinAbs": "2020-07-04 01:59:00",
+            "mediaMin": 14.399999618530273
+        }
+    },
+    {
+        "ano": 2019,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.100000381469727,
+            "mediaAri": 16,
+            "numDatos": 31,
+            "maxAbs": 19.299999237060547,
+            "feMaxAbs": "2019-07-11 13:54:00",
+            "MediaMax": 18,
+            "minAbs": 11.800000190734863,
+            "feMinAbs": "2019-07-06 00:48:00",
+            "mediaMin": 14.800000190734863
+        }
+    },
+    {
+        "ano": 2018,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16,
+            "mediaAri": 16,
+            "numDatos": 31,
+            "maxAbs": 21.100000381469727,
+            "feMaxAbs": "2018-07-21 15:08:00",
+            "MediaMax": 18,
+            "minAbs": 11.699999809265137,
+            "feMinAbs": "2018-07-05 03:47:00",
+            "mediaMin": 14.300000190734863
+        }
+    },
+    {
+        "ano": 2017,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.899999618530273,
+            "mediaAri": 16.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 20.299999237060547,
+            "feMaxAbs": "2017-07-25 13:05:00",
+            "MediaMax": 18.700000762939453,
+            "minAbs": 11.899999618530273,
+            "feMinAbs": "2017-07-22 05:55:00",
+            "mediaMin": 15.699999809265137
+        }
+    },
+    {
+        "ano": 2016,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.899999618530273,
+            "mediaAri": 16.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 27.899999618530273,
+            "feMaxAbs": "2016-07-08 12:12:00",
+            "MediaMax": 19.299999237060547,
+            "minAbs": 10.300000190734863,
+            "feMinAbs": "2016-07-06 07:18:00",
+            "mediaMin": 15.300000190734863
+        }
+    },
+    {
+        "ano": 2015,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 17.100000381469727,
+            "mediaAri": 17.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 20.600000381469727,
+            "feMaxAbs": "2015-07-22 15:38:00",
+            "MediaMax": 19.200000762939453,
+            "minAbs": 10.5,
+            "feMinAbs": "2015-07-22 07:53:00",
+            "mediaMin": 15.600000381469727
+        }
+    },
+    {
+        "ano": 2014,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.300000190734863,
+            "mediaAri": 15.300000190734863,
+            "numDatos": 31,
+            "maxAbs": 18.299999237060547,
+            "feMaxAbs": "2014-07-04 12:21:00",
+            "MediaMax": 17.200000762939453,
+            "minAbs": 11,
+            "feMinAbs": "2014-07-09 23:13:00",
+            "mediaMin": 14.100000381469727
+        }
+    },
+    {
+        "ano": 2013,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.100000381469727,
+            "mediaAri": 15.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 19,
+            "feMaxAbs": "2013-07-17 13:14:00",
+            "MediaMax": 17.200000762939453,
+            "minAbs": 8.699999809265137,
+            "feMinAbs": "2013-07-04 06:22:00",
+            "mediaMin": 13
+        }
+    },
+    {
+        "ano": 2012,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.899999618530273,
+            "mediaAri": 16.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 20.600000381469727,
+            "feMaxAbs": "2012-07-11 13:38:00",
+            "MediaMax": 18.899999618530273,
+            "minAbs": 12.399999618530273,
+            "feMinAbs": "2012-07-21 23:14:00",
+            "mediaMin": 15.800000190734863
+        }
+    },
+    {
+        "ano": 2011,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.200000762939453,
+            "mediaAri": 16.200000762939453,
+            "numDatos": 31,
+            "maxAbs": 19.899999618530273,
+            "feMaxAbs": "2011-07-15 14:24:00",
+            "MediaMax": 18.100000381469727,
+            "minAbs": 13.5,
+            "feMinAbs": "2011-07-16 00:39:00",
+            "mediaMin": 15.199999809265137
+        }
+    },
+    {
+        "ano": 2010,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.399999618530273,
+            "mediaAri": 14.399999618530273,
+            "numDatos": 31,
+            "maxAbs": 17.899999618530273,
+            "feMaxAbs": "2010-07-05 11:41:00",
+            "MediaMax": 16.600000381469727,
+            "minAbs": 7.400000095367432,
+            "feMinAbs": "2010-07-19 06:23:00",
+            "mediaMin": 12.800000190734863
+        }
+    },
+    {
+        "ano": 2009,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.5,
+            "mediaAri": 16.5,
+            "numDatos": 31,
+            "maxAbs": 20.600000381469727,
+            "feMaxAbs": "2009-07-01 20:20:00",
+            "MediaMax": 18.399999618530273,
+            "minAbs": 12.100000381469727,
+            "feMinAbs": "2009-07-13 02:25:00",
+            "mediaMin": 15
+        }
+    },
+    {
+        "ano": 2008,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.100000381469727,
+            "mediaAri": 16.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 19.299999237060547,
+            "feMaxAbs": "2008-07-30 10:26:00",
+            "MediaMax": 18.100000381469727,
+            "minAbs": 10,
+            "feMinAbs": "2008-07-11 07:02:00",
+            "mediaMin": 14.5
+        }
+    },
+    {
+        "ano": 2007,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.5,
+            "mediaAri": 14.5,
+            "numDatos": 31,
+            "maxAbs": 17.399999618530273,
+            "feMaxAbs": "2007-07-07 12:33:00",
+            "MediaMax": 16.100000381469727,
+            "minAbs": 9.199999809265137,
+            "feMinAbs": "2007-07-06 06:24:00",
+            "mediaMin": 13.300000190734863
+        }
+    },
+    {
+        "ano": 2006,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 17.200000762939453,
+            "mediaAri": 17.200000762939453,
+            "numDatos": 31,
+            "maxAbs": 21.600000381469727,
+            "feMaxAbs": "2006-07-07 12:21:00",
+            "MediaMax": 19.299999237060547,
+            "minAbs": 11.399999618530273,
+            "feMinAbs": "2006-07-04 07:15:00",
+            "mediaMin": 15.399999618530273
+        }
+    },
+    {
+        "ano": 2005,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.899999618530273,
+            "mediaAri": 15.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 19.700000762939453,
+            "feMaxAbs": "2005-07-15 13:51:00",
+            "MediaMax": 17.799999237060547,
+            "minAbs": 10.600000381469727,
+            "feMinAbs": "2005-07-12 03:59:00",
+            "mediaMin": 14.300000190734863
+        }
+    },
+    {
+        "ano": 2004,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.899999618530273,
+            "mediaAri": 15.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 22.700000762939453,
+            "feMaxAbs": "2004-07-02 15:22:00",
+            "MediaMax": 18,
+            "minAbs": 9.800000190734863,
+            "feMinAbs": "2004-07-27 05:10:00",
+            "mediaMin": 14.199999809265137
+        }
+    },
+    {
+        "ano": 2003,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.899999618530273,
+            "mediaAri": 15.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 20.799999237060547,
+            "feMaxAbs": "2003-07-20 15:18:00",
+            "MediaMax": 18,
+            "minAbs": 10.5,
+            "feMinAbs": "2003-07-01 07:15:00",
+            "mediaMin": 13.899999618530273
+        }
+    },
+    {
+        "ano": 2002,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.800000190734863,
+            "mediaAri": 15.800000190734863,
+            "numDatos": 31,
+            "maxAbs": 19.700000762939453,
+            "feMaxAbs": "2002-07-02 12:14:00",
+            "MediaMax": 17.600000381469727,
+            "minAbs": 10.600000381469727,
+            "feMinAbs": "2002-07-06 06:57:00",
+            "mediaMin": 14.5
+        }
+    },
+    {
+        "ano": 2001,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.5,
+            "mediaAri": 15.5,
+            "numDatos": 31,
+            "maxAbs": 18.700000762939453,
+            "feMaxAbs": "2001-07-25 14:27:00",
+            "MediaMax": 17.700000762939453,
+            "minAbs": 9.199999809265137,
+            "feMinAbs": "2001-07-18 03:20:00",
+            "mediaMin": 13.899999618530273
+        }
+    },
+    {
+        "ano": 2000,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.5,
+            "mediaAri": 15.5,
+            "numDatos": 31,
+            "maxAbs": 19,
+            "feMaxAbs": "2000-07-04 11:50:00",
+            "MediaMax": 17.5,
+            "minAbs": 9.5,
+            "feMinAbs": "2000-07-23 07:30:00",
+            "mediaMin": 13.899999618530273
+        }
+    },
+    {
+        "ano": 1999,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16,
+            "mediaAri": 16,
+            "numDatos": 31,
+            "maxAbs": 20.100000381469727,
+            "feMaxAbs": "1999-07-03 14:30:00",
+            "MediaMax": 18.299999237060547,
+            "minAbs": 10.699999809265137,
+            "feMinAbs": "1999-07-08 03:30:00",
+            "mediaMin": 14.600000381469727
+        }
+    },
+    {
+        "ano": 1998,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 17.399999618530273,
+            "mediaAri": 17.399999618530273,
+            "numDatos": 31,
+            "maxAbs": 20.799999237060547,
+            "feMaxAbs": "1998-07-11 13:30:00",
+            "MediaMax": 19.600000381469727,
+            "minAbs": 12,
+            "feMinAbs": "1998-07-20 07:30:00",
+            "mediaMin": 16.100000381469727
+        }
+    },
+    {
+        "ano": 1997,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 19,
+            "mediaAri": 19,
+            "numDatos": 31,
+            "maxAbs": 22.200000762939453,
+            "feMaxAbs": null,
+            "MediaMax": 21.200000762939453,
+            "minAbs": 14.699999809265137,
+            "feMinAbs": "1997-07-04 23:45:00",
+            "mediaMin": 17.700000762939453
+        }
+    },
+    {
+        "ano": 1996,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.899999618530273,
+            "mediaAri": 14.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 18.5,
+            "feMaxAbs": "1996-07-24 14:20:00",
+            "MediaMax": 17.200000762939453,
+            "minAbs": 6.599999904632568,
+            "feMinAbs": "1996-07-03 06:40:00",
+            "mediaMin": 13.100000381469727
+        }
+    },
+    {
+        "ano": 1995,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.5,
+            "mediaAri": 15.5,
+            "numDatos": 31,
+            "maxAbs": 19.200000762939453,
+            "feMaxAbs": null,
+            "MediaMax": 18.200000762939453,
+            "minAbs": 9,
+            "feMinAbs": "1995-07-13 07:30:00",
+            "mediaMin": 13.399999618530273
+        }
+    },
+    {
+        "ano": 1994,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16,
+            "mediaAri": 16,
+            "numDatos": 31,
+            "maxAbs": 19.200000762939453,
+            "feMaxAbs": "1994-07-15 13:10:00",
+            "MediaMax": 18.100000381469727,
+            "minAbs": 10.100000381469727,
+            "feMinAbs": "1994-07-07 07:30:00",
+            "mediaMin": 14.600000381469727
+        }
+    },
+    {
+        "ano": 1993,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.799999237060547,
+            "mediaAri": 16.799999237060547,
+            "numDatos": 31,
+            "maxAbs": 21.200000762939453,
+            "feMaxAbs": "1993-07-02 13:40:00",
+            "MediaMax": 19.100000381469727,
+            "minAbs": 10.600000381469727,
+            "feMinAbs": "1993-07-30 02:15:00",
+            "mediaMin": 15.5
+        }
+    },
+    {
+        "ano": 1992,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.100000381469727,
+            "mediaAri": 16.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 20.200000762939453,
+            "feMaxAbs": "1992-07-02 14:10:00",
+            "MediaMax": 18.700000762939453,
+            "minAbs": 8.5,
+            "feMinAbs": "1992-07-18 07:30:00",
+            "mediaMin": 14
+        }
+    },
+    {
+        "ano": 1991,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.399999618530273,
+            "mediaAri": 16.399999618530273,
+            "numDatos": 31,
+            "maxAbs": 20.100000381469727,
+            "feMaxAbs": "1991-07-05 13:15:00",
+            "MediaMax": 18.799999237060547,
+            "minAbs": 9.800000190734863,
+            "feMinAbs": "1991-07-08 05:55:00",
+            "mediaMin": 14.600000381469727
+        }
+    },
+    {
+        "ano": 1990,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.300000190734863,
+            "mediaAri": 15.300000190734863,
+            "numDatos": 31,
+            "maxAbs": 19.399999618530273,
+            "feMaxAbs": "1990-07-09 14:30:00",
+            "MediaMax": 17.5,
+            "minAbs": 7.5,
+            "feMinAbs": "1990-07-26 07:30:00",
+            "mediaMin": 13.800000190734863
+        }
+    },
+    {
+        "ano": 1989,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.800000190734863,
+            "mediaAri": 15.800000190734863,
+            "numDatos": 31,
+            "maxAbs": 18.899999618530273,
+            "feMaxAbs": "1989-07-10 13:45:00",
+            "MediaMax": 18,
+            "minAbs": 8.600000381469727,
+            "feMinAbs": "1989-07-05 07:15:00",
+            "mediaMin": 14.300000190734863
+        }
+    },
+    {
+        "ano": 1988,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.899999618530273,
+            "mediaAri": 14.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 18.799999237060547,
+            "feMaxAbs": "1988-07-19 12:45:00",
+            "MediaMax": 17.200000762939453,
+            "minAbs": 9.800000190734863,
+            "feMinAbs": "1988-07-04 06:50:00",
+            "mediaMin": 13.399999618530273
+        }
+    },
+    {
+        "ano": 1987,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 17,
+            "mediaAri": 17,
+            "numDatos": 31,
+            "maxAbs": 21.600000381469727,
+            "feMaxAbs": "1987-07-28 12:20:00",
+            "MediaMax": 19.5,
+            "minAbs": 10.199999809265137,
+            "feMinAbs": "1987-07-30 07:15:00",
+            "mediaMin": 15.100000381469727
+        }
+    },
+    {
+        "ano": 1986,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.199999809265137,
+            "mediaAri": 15.199999809265137,
+            "numDatos": 31,
+            "maxAbs": 19.600000381469727,
+            "feMaxAbs": "1986-07-20 11:00:00",
+            "MediaMax": 18,
+            "minAbs": 8.100000381469727,
+            "feMinAbs": "1986-07-05 05:00:00",
+            "mediaMin": 12.600000381469727
+        }
+    },
+    {
+        "ano": 1985,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16,
+            "mediaAri": 16,
+            "numDatos": 31,
+            "maxAbs": 20.799999237060547,
+            "feMaxAbs": "1985-07-24 14:30:00",
+            "MediaMax": 19.100000381469727,
+            "minAbs": 8.399999618530273,
+            "feMinAbs": "1985-07-07 07:00:00",
+            "mediaMin": 13.5
+        }
+    },
+    {
+        "ano": 1984,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.200000762939453,
+            "mediaAri": 16.299999237060547,
+            "numDatos": 31,
+            "maxAbs": 20.600000381469727,
+            "feMaxAbs": null,
+            "MediaMax": 19.100000381469727,
+            "minAbs": 8.5,
+            "feMinAbs": null,
+            "mediaMin": 13.899999618530273
+        }
+    },
+    {
+        "ano": 1983,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 18.600000381469727,
+            "mediaAri": 18.600000381469727,
+            "numDatos": 31,
+            "maxAbs": 24,
+            "feMaxAbs": "1983-07-08 11:00:00",
+            "MediaMax": 21.600000381469727,
+            "minAbs": 9.199999809265137,
+            "feMinAbs": "1983-07-22 07:15:00",
+            "mediaMin": 16.200000762939453
+        }
+    },
+    {
+        "ano": 1982,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.399999618530273,
+            "mediaAri": 16.399999618530273,
+            "numDatos": 31,
+            "maxAbs": 21.600000381469727,
+            "feMaxAbs": null,
+            "MediaMax": 19.399999618530273,
+            "minAbs": 8.800000190734863,
+            "feMinAbs": null,
+            "mediaMin": 14.100000381469727
+        }
+    },
+    {
+        "ano": 1981,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.300000190734863,
+            "mediaAri": 15.300000190734863,
+            "numDatos": 31,
+            "maxAbs": 20.799999237060547,
+            "feMaxAbs": null,
+            "MediaMax": 18.600000381469727,
+            "minAbs": 8.199999809265137,
+            "feMinAbs": null,
+            "mediaMin": 12.399999618530273
+        }
+    },
+    {
+        "ano": 1980,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 17.399999618530273,
+            "mediaAri": 17.399999618530273,
+            "numDatos": 31,
+            "maxAbs": 21.799999237060547,
+            "feMaxAbs": null,
+            "MediaMax": 20,
+            "minAbs": 12,
+            "feMinAbs": null,
+            "mediaMin": 15.699999809265137
+        }
+    },
+    {
+        "ano": 1979,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.200000762939453,
+            "mediaAri": 16.200000762939453,
+            "numDatos": 31,
+            "maxAbs": 20.799999237060547,
+            "feMaxAbs": null,
+            "MediaMax": 19.100000381469727,
+            "minAbs": 9.600000381469727,
+            "feMinAbs": null,
+            "mediaMin": 14.100000381469727
+        }
+    },
+    {
+        "ano": 1978,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.200000762939453,
+            "mediaAri": 16.200000762939453,
+            "numDatos": 31,
+            "maxAbs": 20.600000381469727,
+            "feMaxAbs": null,
+            "MediaMax": 19,
+            "minAbs": 10.399999618530273,
+            "feMinAbs": null,
+            "mediaMin": 14.100000381469727
+        }
+    },
+    {
+        "ano": 1977,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.899999618530273,
+            "mediaAri": 16.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 22.799999237060547,
+            "feMaxAbs": "1977-07-01 13:00:00",
+            "MediaMax": 19.799999237060547,
+            "minAbs": 10.600000381469727,
+            "feMinAbs": null,
+            "mediaMin": 14.199999809265137
+        }
+    },
+    {
+        "ano": 1976,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.299999237060547,
+            "mediaAri": 16.299999237060547,
+            "numDatos": 31,
+            "maxAbs": 21.200000762939453,
+            "feMaxAbs": null,
+            "MediaMax": 18.600000381469727,
+            "minAbs": 13.5,
+            "feMinAbs": null,
+            "mediaMin": 14.800000190734863
+        }
+    },
+    {
+        "ano": 1975,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.899999618530273,
+            "mediaAri": 14.800000190734863,
+            "numDatos": 31,
+            "maxAbs": 19.799999237060547,
+            "feMaxAbs": null,
+            "MediaMax": 17.600000381469727,
+            "minAbs": 6.199999809265137,
+            "feMinAbs": null,
+            "mediaMin": 12.899999618530273
+        }
+    },
+    {
+        "ano": 1974,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.800000190734863,
+            "mediaAri": 15.800000190734863,
+            "numDatos": 31,
+            "maxAbs": 19.399999618530273,
+            "feMaxAbs": null,
+            "MediaMax": 18,
+            "minAbs": 11,
+            "feMinAbs": null,
+            "mediaMin": 14.300000190734863
+        }
+    },
+    {
+        "ano": 1973,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.300000190734863,
+            "mediaAri": 15.300000190734863,
+            "numDatos": 31,
+            "maxAbs": 19.799999237060547,
+            "feMaxAbs": null,
+            "MediaMax": 18.5,
+            "minAbs": 6.800000190734863,
+            "feMinAbs": null,
+            "mediaMin": 12.5
+        }
+    },
+    {
+        "ano": 1972,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.799999237060547,
+            "mediaAri": 16.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 20.600000381469727,
+            "feMaxAbs": null,
+            "MediaMax": 19.399999618530273,
+            "minAbs": 13.199999809265137,
+            "feMinAbs": null,
+            "mediaMin": 14.899999618530273
+        }
+    },
+    {
+        "ano": 1971,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.600000381469727,
+            "mediaAri": 14.699999809265137,
+            "numDatos": 31,
+            "maxAbs": 19,
+            "feMaxAbs": null,
+            "MediaMax": 17.399999618530273,
+            "minAbs": 8,
+            "feMinAbs": null,
+            "mediaMin": 11.699999809265137
+        }
+    },
+    {
+        "ano": 1970,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 13.699999809265137,
+            "mediaAri": 14.399999618530273,
+            "numDatos": 31,
+            "maxAbs": 18.399999618530273,
+            "feMaxAbs": null,
+            "MediaMax": 16.899999618530273,
+            "minAbs": 7.199999809265137,
+            "feMinAbs": null,
+            "mediaMin": 10.600000381469727
+        }
+    },
+    {
+        "ano": 1969,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16,
+            "mediaAri": 15.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 20.399999618530273,
+            "feMaxAbs": null,
+            "MediaMax": 18.799999237060547,
+            "minAbs": 9.800000190734863,
+            "feMinAbs": null,
+            "mediaMin": 13.300000190734863
+        }
+    },
+    {
+        "ano": 1968,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.699999809265137,
+            "mediaAri": 15.300000190734863,
+            "numDatos": 31,
+            "maxAbs": 19.600000381469727,
+            "feMaxAbs": null,
+            "MediaMax": 18.200000762939453,
+            "minAbs": 8.399999618530273,
+            "feMinAbs": null,
+            "mediaMin": 13.100000381469727
+        }
+    },
+    {
+        "ano": 1967,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.300000190734863,
+            "mediaAri": 15.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 19.799999237060547,
+            "feMaxAbs": "1967-07-28 13:45:00",
+            "MediaMax": 17.600000381469727,
+            "minAbs": 9.800000190734863,
+            "feMinAbs": "1967-07-10 06:15:00",
+            "mediaMin": 13.100000381469727
+        }
+    },
+    {
+        "ano": 1966,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.800000190734863,
+            "mediaAri": 15.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 18.399999618530273,
+            "feMaxAbs": null,
+            "MediaMax": 17.700000762939453,
+            "minAbs": 7,
+            "feMinAbs": null,
+            "mediaMin": 12
+        }
+    },
+    {
+        "ano": 1965,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 17.799999237060547,
+            "mediaAri": 17.899999618530273,
+            "numDatos": 31,
+            "maxAbs": 22,
+            "feMaxAbs": null,
+            "MediaMax": 20.200000762939453,
+            "minAbs": 11.300000190734863,
+            "feMinAbs": null,
+            "mediaMin": 15.399999618530273
+        }
+    },
+    {
+        "ano": 1964,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.699999809265137,
+            "mediaAri": 15.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 18.200000762939453,
+            "feMaxAbs": null,
+            "MediaMax": 17.600000381469727,
+            "minAbs": 6.599999904632568,
+            "feMinAbs": null,
+            "mediaMin": 11.899999618530273
+        }
+    },
+    {
+        "ano": 1963,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.799999237060547,
+            "mediaAri": 16.5,
+            "numDatos": 31,
+            "maxAbs": 20.399999618530273,
+            "feMaxAbs": null,
+            "MediaMax": 19.399999618530273,
+            "minAbs": 10,
+            "feMinAbs": null,
+            "mediaMin": 14.100000381469727
+        }
+    },
+    {
+        "ano": 1962,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.699999809265137,
+            "mediaAri": 15.600000381469727,
+            "numDatos": 31,
+            "maxAbs": 20.399999618530273,
+            "feMaxAbs": null,
+            "MediaMax": 18.600000381469727,
+            "minAbs": 8,
+            "feMinAbs": null,
+            "mediaMin": 12.800000190734863
+        }
+    },
+    {
+        "ano": 1961,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.800000190734863,
+            "mediaAri": 14.600000381469727,
+            "numDatos": 31,
+            "maxAbs": 19.299999237060547,
+            "feMaxAbs": null,
+            "MediaMax": 17.399999618530273,
+            "minAbs": 6.199999809265137,
+            "feMinAbs": null,
+            "mediaMin": 12.199999809265137
+        }
+    },
+    {
+        "ano": 1960,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.399999618530273,
+            "mediaAri": 16.200000762939453,
+            "numDatos": 31,
+            "maxAbs": 20.200000762939453,
+            "feMaxAbs": null,
+            "MediaMax": 18.700000762939453,
+            "minAbs": 11.600000381469727,
+            "feMinAbs": null,
+            "mediaMin": 14
+        }
+    },
+    {
+        "ano": 1959,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.299999237060547,
+            "mediaAri": 16.100000381469727,
+            "numDatos": 31,
+            "maxAbs": 20,
+            "feMaxAbs": null,
+            "MediaMax": 19.100000381469727,
+            "minAbs": 10,
+            "feMinAbs": null,
+            "mediaMin": 13.5
+        }
+    },
+    {
+        "ano": 1958,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 16.899999618530273,
+            "mediaAri": 16.799999237060547,
+            "numDatos": 31,
+            "maxAbs": 21.5,
+            "feMaxAbs": null,
+            "MediaMax": 19.799999237060547,
+            "minAbs": 10,
+            "feMinAbs": null,
+            "mediaMin": 14
+        }
+    },
+    {
+        "ano": 1957,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 18,
+            "mediaAri": 17.799999237060547,
+            "numDatos": 31,
+            "maxAbs": 23,
+            "feMaxAbs": null,
+            "MediaMax": 21.399999618530273,
+            "minAbs": 8.5,
+            "feMinAbs": null,
+            "mediaMin": 14.600000381469727
+        }
+    },
+    {
+        "ano": 1956,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 14.399999618530273,
+            "mediaAri": 15.699999809265137,
+            "numDatos": 31,
+            "maxAbs": 20.600000381469727,
+            "feMaxAbs": null,
+            "MediaMax": 18.5,
+            "minAbs": 7.599999904632568,
+            "feMinAbs": null,
+            "mediaMin": 10.399999618530273
+        }
+    },
+    {
+        "ano": 1955,
+        "mes": 7,
+        "valores": {
+            "mediaCli": 15.100000381469727,
+            "mediaAri": 15.699999809265137,
+            "numDatos": 31,
+            "maxAbs": 19.700000762939453,
+            "feMaxAbs": null,
+            "MediaMax": 18.5,
+            "minAbs": 7,
+            "feMinAbs": null,
+            "mediaMin": 11.699999809265137
+        }
+    }
+]
