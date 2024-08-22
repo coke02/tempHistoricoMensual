@@ -1,4 +1,5 @@
-Descripción general del proyecto
+Descripción general del proyecto:
+
 Objetivo principal: Extraer datos históricos de temperatura de la Dirección Meteorológica de Chile (el webservice es de "testing" puede variar la estructura).
 Se necesita user y key para acceder al webservice (la inscripción es gratuita)
 
